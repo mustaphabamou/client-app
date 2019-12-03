@@ -1,2 +1,2 @@
 mon premier projet avec angular
-application web de gestion des clients
+application web de gestion des clients.
